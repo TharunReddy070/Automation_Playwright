@@ -1,0 +1,1 @@
+https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-pharmacy-created-their-llm-based-chat-bot-using-amazon-sagemaker/?did=cr_card&trk=cr_card
